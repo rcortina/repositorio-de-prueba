@@ -8,6 +8,7 @@
 <body>
 	<?php
 		echo "Esto es una prueba.";
+		echo "Esto es una prueba despues de la clonacion.";
 	?>
 </body>
 </html>
